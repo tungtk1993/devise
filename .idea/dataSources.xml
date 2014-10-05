@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1213646864">
+    <data-source source="LOCAL" name="Rails tutorial_devise_cancan: development" uuid="ba613fdc-fe3c-4f2c-85ca-f1d31bca5b91">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/tutorial_devise_cancan_development</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails tutorial_devise_cancan: test" uuid="77ae17a2-06ea-460a-bb2e-2473d5d94642">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/tutorial_devise_cancan_test</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails tutorial_devise_cancan: production" uuid="e3343678-875a-4298-915b-f19068dccb56">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/tutorial_devise_cancan_production</jdbc-url>
+      <user-name>tutorial_devise_cancan</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedfffdffedfe5dff8dfe3dfebdfe6dff5dfeedfefdffcdfe3dff9dfefdff5dfe9dfebdfe4dfe9dfebdfe4dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
